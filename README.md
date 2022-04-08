@@ -16,17 +16,17 @@ Within this project there are 3 small applications that provide information for 
 ## HOW TO
 
 ### config.py file for API keys
-A config.py file containing the relevant API keys will need to be placed in each of the folders containing the various projects
+A config.py file containing the relevant API keys will need to be placed in each of the folders containing the various projects  
 The below shows the required API key formatting required for each config.py file
 
 - Weather_Database folder:
-	- config.py API key entry:
-		weather_api_key="<replace with API key from OpenWeatherMap >"
+	- config.py API key entry:  
+		weather_api_key="replace with API key from OpenWeatherMap"
 		
 - Vacation_Search folder:
 	- config.py API key entry:
-		g_key="<replace with API key from Googleapi>"
+		g_key="replace with API key from Googleapi"
 		
 - Vacation_Itinerary folder	
 	- config.py API key entry:
-		g_key="<replace with API key from Googleapi>"
+		g_key="replace with API key from Googleapi"
