@@ -24,9 +24,9 @@ The below shows the required API key formatting required for each config.py file
 		weather_api_key="replace with API key from OpenWeatherMap"
 		
 - Vacation_Search folder:
-	- config.py API key entry:
+	- config.py API key entry:  
 		g_key="replace with API key from Googleapi"
 		
-- Vacation_Itinerary folder	
-	- config.py API key entry:
+- Vacation_Itinerary folder:
+	- config.py API key entry:  
 		g_key="replace with API key from Googleapi"
